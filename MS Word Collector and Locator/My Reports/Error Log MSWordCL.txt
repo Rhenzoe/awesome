@@ -1,0 +1,422 @@
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             ConfigData
+Please check line:   7 
+Error:                       Automation error
+The remote procedure call failed. 
+Date:                        09/18/2019 23:20:21
+
+===========================================
+
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             ConfigData
+Please check line:   0 
+Error:                       Sorry, we couldn't find your file. Was it moved, renamed, or deleted? ("C:\Users\...\VBA files\TestDataa.docx")
+Date:                        10/15/2019 15:32:57
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Please check line:   54 
+Error:                       Can not run the macro 'btnClearData1'. The macro may not be available in this workbook or all macros may be disabled.
+Date:                        10/15/2019 15:37:17
+
+===========================================
+
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             ConfigData
+Please check line:   7 
+Error:                       Automation error
+The server threw an exception. 
+Date:                        10/15/2019 15:39:16
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Please check line:   75 
+Error:                       Can not run the macro 'btnSearch1'. The macro may not be available in this workbook or all macros may be disabled.
+Date:                        10/15/2019 15:48:00
+
+===========================================
+
+
+========== MSWordCL_SendErrorNotif_SubTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\SendErrorNotif.atmx
+Please check line:   7 
+Error:                       Can not run the macro 'ErrorNotif'. The macro may not be available in this workbook or all macros may be disabled.
+Date:                        10/15/2019 15:49:24
+
+===========================================
+
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             UploadDataWord
+Please check line:   14 
+Error:                       Subscript out of range
+Date:                        10/15/2019 15:54:51
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Please check line:   61 
+Error:                       Cannot run the macro 'btnClearDataa'. The macro may not be available in this workbook or all macros may be disabled.
+Date:                        10/15/2019 17:11:39
+
+===========================================
+
+
+========== MSWordCL_HasError_SubTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\HasError.atmx
+Please check line:   3 
+Error:                       Invalid file extension. Supported extensions are .bmp,.png,.gif,.jpeg,.wmf and tiff.
+Date:                        10/15/2019 17:29:22
+
+===========================================
+
+
+========== MSWordCL_HasError_SubTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\HasError.atmx
+Please check line:   3 
+Error:                       Unable to log the text in the file.
+Date:                        10/15/2019 17:30:02
+
+===========================================
+
+
+========== MSWordCL_HasError_SubTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\HasError.atmx
+Please check line:   3 
+Error:                       Invalid file extension. Supported extensions are .bmp,.png,.gif,.jpeg,.wmf and tiff.
+Date:                        10/15/2019 17:36:08
+
+===========================================
+
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             ConfigData
+Please check line:   0 
+Error:                       Sorry, we couldn't find your file. Was it moved, renamed, or deleted? ("C:\Users\...\VBA files\TestDataa.docx")
+Date:                        10/15/2019 17:39:23
+
+===========================================
+
+
+========== MSWordCL_HasError_SubTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\HasError.atmx
+Please check line:   15 
+Error:                       Invalid file extension. Supported extensions are .bmp,.png,.gif,.jpeg,.wmf and tiff.
+Date:                        10/15/2019 17:39:34
+
+===========================================
+
+
+========== MSWordCL_HasError_SubTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\HasError.atmx
+Please check line:   3 
+Error:                       Invalid file extension. Supported extensions are .bmp,.png,.gif,.jpeg,.wmf and tiff.
+Date:                        10/15/2019 17:43:09
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Please check line:   53 
+Error:                       The file 'C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Reports\MS Word Collector and Locator\Snapshot\Snapshot 10.15.2019.png' already exists.
+Date:                        10/15/2019 17:47:59
+
+===========================================
+
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             ConfigData
+Please check line:   0 
+Error:                       Sorry, we couldn't find your file. Was it moved, renamed, or deleted? ("C:\Users\...\VBA files\TestDataa.docx")
+Date:                        10/15/2019 17:56:49
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Please check line:   90 
+Error:                       The file 'C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Reports\MS Word Collector and Locator\Snapshot\Snapshot 10.15.2019.png' already exists.
+Date:                        10/15/2019 18:08:22
+
+===========================================
+
+
+========== MSWordCL_HasError_SubTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\HasError.atmx
+Please check line:   4 
+Error:                       The file 'C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Reports\MS Word Collector and Locator\Snapshot\Snapshot 10.15.2019.png' already exists.
+Date:                        10/15/2019 18:13:12
+
+===========================================
+
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             ConfigData
+Please check line:   0 
+Error:                       Sorry, we couldn't find your file. Was it moved, renamed, or deleted? ("C:\Users\...\VBA files\TestDataa.docx")
+Date:                        10/15/2019 18:15:35
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Please check line:   62 
+Error:                       Cannot run the macro 'btnClearDataa'. The macro may not be available in this workbook or all macros may be disabled.
+Date:                        10/15/2019 18:17:27
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Please check line:   62 
+Error:                       Cannot run the macro 'btnClearDataa'. The macro may not be available in this workbook or all macros may be disabled.
+Date:                        10/15/2019 18:29:08
+
+===========================================
+
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             ConfigData
+Please check line:   0 
+Error:                       Sorry, we couldn't find your file. Was it moved, renamed, or deleted? ("C:\Users\...\VBA files\TestDataa.docx")
+Date:                        10/15/2019 18:33:23
+
+===========================================
+
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             ConfigData
+Please check line:   0 
+Error:                       Sorry, we couldn't find your file. Was it moved, renamed, or deleted? ("C:\Users\ronarbiel.tumandao\...\Testt")
+Date:                        10/15/2019 18:35:31
+
+===========================================
+
+
+========== MSWordCL_SendErrorNotif_SubTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\SendErrorNotif.atmx
+Please check line:   7 
+Error:                       Cannot run the macro 'ErrorNotiff'. The macro may not be available in this workbook or all macros may be disabled.
+Date:                        10/15/2019 18:35:40
+
+===========================================
+
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             ConfigData
+Please check line:   0 
+Error:                       Sorry, we couldn't find your file. Was it moved, renamed, or deleted? ("C:\Users\ronarbiel.tumandao\...\FindWe")
+Date:                        10/15/2019 18:38:28
+
+===========================================
+
+
+========== MSWordCL_HasError_SubTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\HasError.atmx
+Please check line:   14 
+Error:                       Please provide valid task file. Task File with the name  'C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator$strSubTaskSendErr' not found.
+Date:                        10/15/2019 18:38:33
+
+===========================================
+
+
+=========== MSWordCL_Macro FAILED ===========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in sub:             ConfigData
+Please check line:   0 
+Error:                       Sorry, we couldn't find your file. Was it moved, renamed, or deleted? ("C:\Users\...\VBA files\TestDataa.docx")
+Date:                        10/15/2019 18:56:53
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Please check line:   75 
+Error:                       Cannot find window or application titled 'MSWord Data Collector and Locator.xlsm - Excel' that was open during recording.
+Date:                        10/29/2019 18:48:25
+
+===========================================
+
+
+========== MSWordCL_SendErrorNotif_SubTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_SubTask_SendErrorNotif.atmx
+Please check line:   5 
+Error:                       Please enter a numeric value
+Date:                        10/29/2019 18:48:30
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Please check line:   75 
+Error:                       Cannot find window or application titled 'MSWord Data Collector and Locator.xlsm - Excel' that was open during recording.
+Date:                        10/29/2019 18:50:56
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Please check line:   75 
+Error:                       Cannot find window or application titled 'RPAFile_MSWord Data Collector and Locator.xlsm - Excel' that was open during recording.
+Date:                        10/29/2019 18:56:43
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Please check line:   76 
+Error:                       Cannot find window or application titled 'MSWord Data Collector and Locator.xlsm - Excel' that was open during recording.
+Date:                        10/29/2019 18:57:32
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Please check line:   76 
+Error:                       Cannot find window or application titled 'MSWord Data Collector and Locator.xlsm - Excel' that was open during recording.
+Date:                        10/29/2019 18:58:22
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Please check line:   76 
+Error:                       Cannot find window or application titled 'MSWord Data Collector and Locator.xlsm - Excel' that was open during recording.
+Date:                        10/29/2019 18:59:43
+
+===========================================
+
+
+========== MSWordCL_MainTask FAILED ==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Please check line:   75 
+Error:                       Cannot find window or application titled 'MSWord Data Collector and Locator.xlsm - Excel' that was open during recording.
+Date:                        10/29/2019 19:02:13
+
+===========================================
+

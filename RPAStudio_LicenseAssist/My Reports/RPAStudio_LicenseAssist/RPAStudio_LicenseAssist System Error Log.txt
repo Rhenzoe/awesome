@@ -1,0 +1,12 @@
+==========
+\RPAStudio_LicenseAssist AAv11_SubTask_Automate_License_Transfer_And_Account_Reset.atmx FAILED
+==========
+
+ComputerName:      DPCI-805278L-LX
+UserName:              ronarbiel.tumandao
+Error in task:            C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\RPAStudio_LicenseAssist\RPAStudio_LicenseAssist AAv11_SubTask_Automate_License_Transfer_And_Account_Reset.atmx
+Please check line:   62 
+Error:                       Unable to perform 'Click' action. 
+Date:                        05/29/2020 17:16:20
+
+===========================================

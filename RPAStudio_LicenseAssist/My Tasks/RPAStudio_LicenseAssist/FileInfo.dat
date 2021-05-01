@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="RPA_Studio_AAv11_SubTask_Initialize_Configuration.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/15/2020 19:32:13</Property>
+      <Property Name="RunDuration">00:00:20</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPA_Studio_AAv11_SubTask_Automate_License_Transfer_And_Account_Reset.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/15/2020 19:32:53</Property>
+      <Property Name="RunDuration">00:00:39</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPA_Studio_AAv11_MainTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/15/2020 19:32:53</Property>
+      <Property Name="RunDuration">00:01:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPA_Studi_AAv11_SubTask_Send_Email_Report.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/21/2020 11:52:01</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPA_Studio_AAv11_SubTask_Create_New_Folder.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/04/2020 21:43:27</Property>
+      <Property Name="RunDuration">00:01:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPA_Studio_AAv11_SubTask_Send_Email_Report.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/06/2020 23:48:55</Property>
+      <Property Name="RunDuration">00:00:26</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPAStudio_LicenseAccountControl AAv11_SubTask_Initialize_Configuration.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/15/2020 19:48:35</Property>
+      <Property Name="RunDuration">00:00:19</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPAStudio_LicenseAccountControl AAv11_SubTask_Automate_License_Transfer_And_Account_Reset.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/15/2020 19:49:03</Property>
+      <Property Name="RunDuration">00:00:28</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPAStudio_LicenseAccountControl AAv11_MainTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/15/2020 19:49:03</Property>
+      <Property Name="RunDuration">00:00:48</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPAStudio_LicenseAssist AAv11_MainTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/01/2020 14:31:59</Property>
+      <Property Name="RunDuration">00:02:15</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPAStudio_LicenseAssist AAv11_SubTask_Initialize_Configuration.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/01/2020 14:29:52</Property>
+      <Property Name="RunDuration">00:00:07</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPAStudio_LicenseAssist AAv11_SubTask_Send_Email_Report.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/15/2020 20:31:21</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPAStudio_LicenseAssist AAv11_SubTask_Automate_License_Transfer_And_Account_Reset.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/01/2020 14:31:59</Property>
+      <Property Name="RunDuration">00:02:06</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>

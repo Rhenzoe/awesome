@@ -1,0 +1,1296 @@
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      09/18/2019 23:20:13
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      09/18/2019 23:23:00
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      09/18/2019 23:23:14
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      09/18/2019 23:23:26
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      09/18/2019 23:23:31
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      09/18/2019 23:23:43
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      09/20/2019 10:50:39
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      09/20/2019 10:50:50
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      09/20/2019 10:51:00
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      09/20/2019 10:51:03
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      09/20/2019 10:51:15
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 15:31:05
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/15/2019 15:31:21
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/15/2019 15:31:32
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/15/2019 15:31:35
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/15/2019 15:31:46
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 15:32:49
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 15:39:06
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 15:41:43
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 15:46:05
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 15:51:27
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/15/2019 15:51:38
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/15/2019 15:51:49
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/15/2019 15:51:52
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/15/2019 15:52:05
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 15:54:29
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/15/2019 15:54:41
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 17:29:16
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 17:30:43
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/15/2019 17:30:57
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/15/2019 17:31:08
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 17:34:01
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/15/2019 17:34:14
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/15/2019 17:34:25
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/15/2019 17:34:28
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/15/2019 17:34:51
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 17:35:59
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 17:38:06
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 17:39:14
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 17:43:01
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 17:49:07
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 17:56:36
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:08:19
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:12:59
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:15:33
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:27:34
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/15/2019 18:27:48
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/15/2019 18:28:00
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/15/2019 18:28:04
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/15/2019 18:28:13
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:31:58
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:35:21
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:38:18
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:42:05
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/15/2019 18:42:20
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/15/2019 18:42:30
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/15/2019 18:42:34
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/15/2019 18:42:45
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:47:27
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/15/2019 18:47:39
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/15/2019 18:47:50
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/15/2019 18:47:54
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\MSWordCL_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/15/2019 18:48:22
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:55:38
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/15/2019 18:55:52
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/15/2019 18:56:03
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/15/2019 18:56:07
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/15/2019 18:56:12
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/15/2019 18:56:44
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 17:43:15
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/16/2019 17:43:28
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/16/2019 17:43:38
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/16/2019 17:43:42
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/16/2019 17:43:47
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:20:35
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:22:37
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:24:41
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/16/2019 19:24:42
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:29:36
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:38:17
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:40:51
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/16/2019 19:40:53
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:43:12
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:55:51
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:56:49
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:58:22
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/16/2019 19:59:58
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/16/2019 20:00:00
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/29/2019 18:21:32
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/29/2019 18:21:34
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/29/2019 18:21:46
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/29/2019 18:21:49
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/29/2019 18:22:07
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/29/2019 19:03:29
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/29/2019 19:03:43
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/29/2019 19:03:53
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/29/2019 19:03:58
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/29/2019 19:04:15
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/29/2019 19:05:30
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/29/2019 19:05:33
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/29/2019 19:05:36
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/29/2019 19:05:39
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/29/2019 19:05:42
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All config data has been configured and updated.
+Transaction:           1
+Date:                      10/29/2019 19:09:00
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Searching the word from MSWord file has been successfully completed.
+Transaction:           2	
+Date:                      10/29/2019 19:09:03
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Word/s from MSWord file has been uploaded to excel.
+Transaction:           3
+Date:                      10/29/2019 19:09:06
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               Paragraph/s from MSWord file has been uploaded to excel.
+Transaction:           4
+Date:                      10/29/2019 19:09:08
+
+===========================================
+
+
+=========MSWordCL_MainTask SUCCESS =========
+
+ComputerName:     DPCI-805278L-LX
+UserName:             ronarbiel.tumandao
+Task:                      C:\Users\ronarbiel.tumandao\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\MS Word Collector and Locator\RPAStudio_AAv11_MainTask.atmx
+Activity:	               All data from MSWord file has been collected and displayed.
+Transaction:           5
+Date:                      10/29/2019 19:09:14
+
+===========================================
+
